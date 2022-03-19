@@ -8,6 +8,7 @@ public class TatPuanlaPrjApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TatPuanlaPrjApplication.class, args);
+        System.out.println("den");
     }
 
 }
